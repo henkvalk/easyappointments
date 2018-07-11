@@ -6,6 +6,7 @@
       <mapping pattern="venumrows.sh" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="magerunmaps" type="PLAIN_TEXT" />
+      <mapping ext="php-" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
